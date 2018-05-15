@@ -1,0 +1,45 @@
+
+body{
+	margin-right: 10%; 
+	margin-left: 10%;
+}
+
+img{
+	float: right;
+}
+
+a img{
+	float: left;
+}
+
+.middle{
+	border: 4px #C2E9E9 solid;
+	background: #E8FBFB;
+	padding: 5px;
+	margin-top: 10px;
+	overflow: auto;
+}
+
+
+.middle span{
+	border-bottom: 2px blue dashed;
+}
+
+
+#global{
+	border: 10px white solid;
+	background: white;
+}
+
+
+#top{
+	border: none;
+	text-align: right;
+	background: #A8F0F0;
+}
+
+
+#top h2{
+	border: none;
+	font-size: 14pt;
+}
